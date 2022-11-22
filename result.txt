@@ -1,6 +1,11 @@
 Similar Sequence of words found are : 
 --------------------------------------
-'and have a long trunk'
-'it walks on four'
+'asia elephants have been tamed'
+'it walks on four legs and has a long trunk'
+'in the whole of asia it'
+'one of the most worshipped animals'
+'is a majestic animal'
+'an elephant is a'
+'an elephant is'
 --------------------------------------
-Similarity level : 90%
+Similarity level : 37%
