@@ -1,6 +1,0 @@
-Similar Sequence of words found are : 
---------------------------------------
-'and have a long trunk'
-'it walks on four'
---------------------------------------
-Similarity level : 90%
